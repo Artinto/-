@@ -17,7 +17,7 @@
 - 박진우 [2017732053.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301941/2017732053.zip)
 - 이효준 [2017732056.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301942/2017732056.zip)
 - 도진호 [2017732057.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301943/2017732057.zip)
-- 정동현 [2017732059.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301944/2017732059.zip)
+- 정동현 [2017732059.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7408052/2017732059.zip)
 - 이동근 [2017732064.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301945/2017732064.zip)
 - 박해준 [2017732065.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301946/2017732065.zip)
 - 윤도영 [2017732072.zip](https://github.com/Artinto/Electrical-Engineering-Seminar/files/7301947/2017732072.zip)
